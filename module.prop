@@ -1,0 +1,6 @@
+id=magisk-single-user-mod
+name=Single User Mod
+version=1.0
+versionCode=100
+author=d3rt0xx
+description=Disables the multiple users feature in Android.
